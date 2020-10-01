@@ -1,5 +1,5 @@
 """
-Code aims to converts characters of languages such as 
+Code aims to converts characters of languages such as to int 
 1.) Basic Latin
 2.) Greek
 3.) Devanagari
